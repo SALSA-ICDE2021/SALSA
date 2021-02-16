@@ -1,3 +1,5 @@
+// Adapted from: https://github.com/Gavindeed/HeavyGuardian/tree/master/flow_size
+
 #pragma once 
 
 #ifndef BOB_HASH_H
